@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning HTML5, CSS, JS.
 - 👯 I’m looking to collaborate on front-end projects.
 - 💬 Ask me about ...
-- 📫 How to reach me: marcelo.joy@gmail.com
 
 <div align="center">
   <a href="https://github.com/marcelojoy">
