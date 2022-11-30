@@ -21,7 +21,7 @@
   <img align="center" alt="Joy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Joy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Joy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="right" alt="Joy-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/630731937635631105/1047148199925780511/darkness1.jpg?width=676&height=676">
+  <img align="right" alt="Joy-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/630731937635631105/1047603145800429690/santahand.png?width=346&height=513"
 </div>
  
   ##
