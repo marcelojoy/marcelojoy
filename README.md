@@ -1,9 +1,9 @@
-### Hi there, i'm Marcelo Joy. 👋
+### <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcelo Joy</h1>
 
 - 🔭 I’m currently studying to become a dev.
 - 🌱 I’m currently learning HTML5, CSS, JS.
 - 👯 I’m looking to collaborate on front-end projects.
-- 💬 Ask me about ...
+- 💬 Ask me about network, infraestructure, linux, etc...
 
 <div align="center">
   <a href="https://github.com/marcelojoy">
